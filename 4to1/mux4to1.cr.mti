@@ -1,0 +1,15 @@
+{D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/4to1/mux4to1.v} {1 {vlog -work work {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/4to1/mux4to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/4to1/mux4to1_tb.v} {1 {vlog -work work {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/4to1/mux4to1_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4to1_tb
+
+Top level modules:
+	mux4to1_tb
+
+} {} {}}

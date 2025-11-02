@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 ImHO5@6KFg5Go2P]QG?[io1
+Z2 VUdf4bU4I6bSbka3_[cJ9a0
+Z3 dD:\METU Fall 2021\EEE 248\Labs\Lab 6\modelsim\ALU
+Z4 w1642813355
+Z5 8D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU.v
+Z6 FD:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU.v|
+Z9 o-work work -O0
+Z10 n@a@l@u
+!i10b 1
+Z11 !s100 fl_=bNhD`ha]o^W6D3Qo;3
+!s85 0
+Z12 !s108 1642815052.989000
+Z13 !s107 D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU.v|
+!s101 -O0
+vALU_tb
+!i10b 1
+!s100 NT>IlDoW6C^Ue?KNhVY973
+ICZH<@IS8mgH1Dj8jAGGd73
+Z14 VE`_QLbcAmOeKZDFMXUl3B3
+R3
+w1642815054
+Z15 8D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU_tb.v
+Z16 FD:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1642815054.672000
+!s107 D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/ALU/ALU_tb.v|
+!s101 -O0
+R9
+Z18 n@a@l@u_tb

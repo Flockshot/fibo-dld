@@ -1,0 +1,15 @@
+{D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/flipflop/Dflip_tb.v} {1 {vlog -work work {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/flipflop/Dflip_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Dflip_tb
+
+Top level modules:
+	Dflip_tb
+
+} {} {}} {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/flipflop/Dflip.v} {1 {vlog -work work {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/flipflop/Dflip.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Dflip
+
+Top level modules:
+	Dflip
+
+} {} {}}

@@ -1,0 +1,24 @@
+
+
+module ALU_tb();
+  reg     [3:0]A, B;
+  reg     [2:0]alu_opcode;
+  wire    [3:0]D;
+  wire    zero_flag;
+  
+  ALU DUT (A,B,alu_opcode,D,zero_flag);
+  initial 
+  begin
+    A=4'b0000; B=4'b0010; alu_opcode=3'b000; #100;
+    A=4'b0010; B=4'b0010; alu_opcode=3'b001; #100;
+    A=4'b0100; B=4'b0010; alu_opcode=3'b010; #100;
+    A=4'b0001; B=4'b0010; alu_opcode=3'b011; #100;
+    A=4'b1101; B=4'b0010; alu_opcode=3'b100; #100;
+    A=4'b1111; B=4'b0010; alu_opcode=3'b101; #100;
+    A=4'b0001; B=4'b0001; alu_opcode=3'b110; #100;
+    A=4'b1101; B=4'b0010; alu_opcode=3'b111; #100;  
+  end
+endmodule
+
+
+
