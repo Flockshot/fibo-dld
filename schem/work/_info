@@ -1,0 +1,302 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 FYnKVn2Gkj;ne149;aZTi3
+Z2 Ih@RC<WNXFMKf=6z4OCE;e0
+Z3 VUdf4bU4I6bSbka3_[cJ9a0
+Z4 dE:\Logic Labs\Lab 7\schem
+Z5 w1654444810
+Z6 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/ALU/ALU.v
+Z7 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/ALU/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/ALU/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1655085067.451000
+Z13 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/ALU/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder
+Z14 !s100 0`igncF][bN8QE?G69`H`3
+Z15 I3I4;DDP:>TQN0?NUi52gc0
+Z16 VLl@96d?Y:Lg`VRHFF<Go]2
+R4
+Z17 w1654444813
+Z18 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/decoder/decoder.v
+Z19 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/decoder/decoder.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/decoder/decoder.v|
+R10
+Z21 !s108 1655085068.039000
+Z22 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/decoder/decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDflip
+Z23 !s100 bnQK4l2LYG[Sg2Jg4>4l^0
+Z24 I;WJ0ji=zjoGT<OY=QX2?<3
+Z25 Vbm55`UZeaAnJ:;5J8?LSH0
+R4
+Z26 w1654444814
+Z27 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/flipflop/Dflip.v
+Z28 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/flipflop/Dflip.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/flipflop/Dflip.v|
+R10
+Z30 n@dflip
+Z31 !s108 1655085068.198000
+Z32 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/flipflop/Dflip.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_CALCULATOR
+Z33 IOI;OB_kMl4zJ=@jk9BNdV1
+Z34 V=VnT>X1bD`FSfG^ZWM4JT2
+R4
+Z35 w1655079662
+Z36 8E:/Logic Labs/Lab 7/Verilog/FIBO_CALCULATOR/FIBO_CALCULATOR.v
+Z37 FE:/Logic Labs/Lab 7/Verilog/FIBO_CALCULATOR/FIBO_CALCULATOR.v
+L0 1
+R8
+r1
+31
+R10
+Z38 n@f@i@b@o_@c@a@l@c@u@l@a@t@o@r
+Z39 !s100 N3`8gSj:FS2<SBOY;ZmhR3
+Z40 !s108 1655085069.704000
+Z41 !s107 E:/Logic Labs/Lab 7/Verilog/FIBO_CALCULATOR/FIBO_CALCULATOR.v|
+Z42 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Verilog/FIBO_CALCULATOR/FIBO_CALCULATOR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_CALUCLATOR_TB
+!i10b 1
+!s100 A6@6Rcb@`AHUnHz_n>9Gl1
+I[3Y0lY@3Q3<9b@2CJAD@A3
+Z43 VaA[;4Cc6nd:e:aB1MekQP3
+R4
+Z44 w1655086186
+8E:\Logic Labs\Lab 7\Modelsim\FIBO_CALCULATOR_TB.v
+FE:\Logic Labs\Lab 7\Modelsim\FIBO_CALCULATOR_TB.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1655218346.713000
+!s107 E:\Logic Labs\Lab 7\Modelsim\FIBO_CALCULATOR_TB.v|
+!s90 -reportprogress|300|-work|work|E:\Logic Labs\Lab 7\Modelsim\FIBO_CALCULATOR_TB.v|
+!s101 -O0
+R10
+Z45 n@f@i@b@o_@c@a@l@u@c@l@a@t@o@r_@t@b
+vFIBO_DATAPATH
+Z46 !s100 joD2F9DfX>9WQf:kQZAFQ2
+Z47 Ie3VJU;_H8mMEYIRWZlS:D1
+Z48 V3MV[kZ=iTGO?90nLDn^N`2
+R4
+Z49 w1654444811
+Z50 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_N.v
+Z51 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_N.v
+L0 1
+R8
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_N.v|
+R10
+Z53 n@f@i@b@o_@d@a@t@a@p@a@t@h
+Z54 !s108 1655085067.590000
+Z55 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_N.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFibo_datapath_tb1
+Z56 !s100 ai6gZ[>E@5Wa7S^F7g:TM3
+Z57 I=PzeaHRV9leV[lSk;Dkbg1
+Z58 VmNZoaci1Vjh4cAj>?8LDI2
+R4
+R49
+Z59 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v
+Z60 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v
+L0 1
+R8
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v|
+R10
+Z62 n@fibo_datapath_tb1
+Z63 !s108 1655085067.812000
+Z64 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_FSM
+Z65 IKWT_5N_S2jk2EGb[PESG82
+Z66 ViEA[QRD5lN]hMnNG<<eOQ3
+R4
+Z67 w1655078154
+Z68 8E:/Logic Labs/Lab 7/Verilog/FIBO_FSM/FIBO_FSM.v
+Z69 FE:/Logic Labs/Lab 7/Verilog/FIBO_FSM/FIBO_FSM.v
+L0 1
+R8
+r1
+31
+R10
+Z70 n@f@i@b@o_@f@s@m
+Z71 !s100 mQ3WGkWgOG4Rab8PloLeW0
+Z72 !s108 1655085069.340000
+Z73 !s107 E:/Logic Labs/Lab 7/Verilog/FIBO_FSM/FIBO_FSM.v|
+Z74 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Verilog/FIBO_FSM/FIBO_FSM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_FSM_TB
+Z75 I^PVK=ig6SmZ;z1FHJC8hO1
+Z76 V9m_OVckJ4zKic4[CX^P4z1
+R4
+Z77 w1655078634
+Z78 8E:/Logic Labs/Lab 7/Modelsim/FIBO_FSM_TB.v
+Z79 FE:/Logic Labs/Lab 7/Modelsim/FIBO_FSM_TB.v
+L0 1
+R8
+r1
+31
+R10
+Z80 n@f@i@b@o_@f@s@m_@t@b
+Z81 !s100 4<[>Ac3L3`]iEf_4ZBVTi1
+Z82 !s108 1655085070.379000
+Z83 !s107 E:/Logic Labs/Lab 7/Modelsim/FIBO_FSM_TB.v|
+Z84 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Modelsim/FIBO_FSM_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM
+Z85 I9Z=?@6jTeYYKc1]WXSab>3
+Z86 VoF999iNVZ@P1YR:o0E67P1
+R4
+Z87 w1655076472
+Z88 8E:/Logic Labs/Lab 7/Verilog/FSM/FSM.v
+Z89 FE:/Logic Labs/Lab 7/Verilog/FSM/FSM.v
+L0 1
+R8
+r1
+31
+R10
+Z90 n@f@s@m
+Z91 !s100 XG1afHi8Q9^J8Ko@M7V`b2
+Z92 !s108 1655085068.923000
+Z93 !s107 E:/Logic Labs/Lab 7/Verilog/FSM/FSM.v|
+Z94 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Verilog/FSM/FSM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_DECO
+Z95 I:eN@lZ]aS5TOP_8X:VRLO1
+Z96 VhTB;TUEBYc?;8fH?HDI@G3
+R4
+Z97 w1655082138
+Z98 8E:/Logic Labs/Lab 7/Verilog/FSM_DECO/FSM_DECO.v
+Z99 FE:/Logic Labs/Lab 7/Verilog/FSM_DECO/FSM_DECO.v
+L0 1
+R8
+r1
+31
+R10
+Z100 n@f@s@m_@d@e@c@o
+Z101 !s100 Z;GigKCX2<ze;]5XA9f4?2
+Z102 !s108 1655085068.622000
+Z103 !s107 E:/Logic Labs/Lab 7/Verilog/FSM_DECO/FSM_DECO.v|
+Z104 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Verilog/FSM_DECO/FSM_DECO.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_DECO_TB
+Z105 Igm8CdV2J6FR`];BI2fBe^1
+Z106 V@5`mC1nOQk3AlU2C4]RQ[3
+R4
+Z107 w1655076444
+Z108 8E:/Logic Labs/Lab 7/Modelsim/FSM_DECO_TB.v
+Z109 FE:/Logic Labs/Lab 7/Modelsim/FSM_DECO_TB.v
+L0 1
+R8
+r1
+31
+R10
+Z110 n@f@s@m_@d@e@c@o_@t@b
+Z111 !s100 ofU1Pl5j`O4EjcAQn4Sg@1
+Z112 !s108 1655085070.820000
+Z113 !s107 E:/Logic Labs/Lab 7/Modelsim/FSM_DECO_TB.v|
+Z114 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Modelsim/FSM_DECO_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_TB
+Z115 I9GdKL_z8Zjj2YP2U=LHfS2
+Z116 V3U;zZ5L6HTCL3z<SDV[Io3
+R4
+Z117 w1655076484
+Z118 8E:/Logic Labs/Lab 7/Modelsim/FSM_TB.v
+Z119 FE:/Logic Labs/Lab 7/Modelsim/FSM_TB.v
+L0 1
+R8
+r1
+31
+R10
+Z120 n@f@s@m_@t@b
+Z121 !s100 h;_b@DjZRS7aXeI299kh?2
+Z122 !s108 1655085071.126000
+Z123 !s107 E:/Logic Labs/Lab 7/Modelsim/FSM_TB.v|
+Z124 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 7/Modelsim/FSM_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z125 !s100 MFShKE1P5YYz0Wg<VXAWS1
+Z126 IO4QIRbiCK1i0dfYo:fmgf1
+Z127 V>b:emP=PQDn6YKm`kB]jO2
+R4
+R26
+Z128 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/mux/mux.v
+Z129 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/mux/mux.v
+L0 1
+R8
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/mux/mux.v|
+R10
+Z131 !s108 1655085068.451000
+Z132 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/mux/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4to1
+Z133 !s100 =gF0Hk@PBbNa[iWdUf5UR2
+Z134 I[G>>jWo2WXe=2bHa[GKYR0
+Z135 VHOS2?9T<DV8nW=JdQacB32
+R4
+R5
+Z136 8C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/4to1/mux4to1.v
+Z137 FC:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/4to1/mux4to1.v
+L0 1
+R8
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/4to1/mux4to1.v|
+R10
+Z139 !s108 1655085067.287000
+Z140 !s107 C:/Users/somaa/Downloads/MM_lab6/MM_lab6/modelsim/4to1/mux4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
