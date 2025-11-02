@@ -1,0 +1,15 @@
+{D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/mux/mux.v} {1 {vlog -work work {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/mux/mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/mux/mux_tb.v} {1 {vlog -work work {D:/METU Fall 2021/EEE 248/Labs/Lab 6/modelsim/mux/mux_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_tb
+
+Top level modules:
+	mux_tb
+
+} {} {}}

@@ -1,0 +1,259 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 PV1`>SV?TJ_Tf1b<Sdi>m3
+Z2 IbG8[5iEK27KKRV``7@;@L0
+Z3 VUdf4bU4I6bSbka3_[cJ9a0
+Z4 dC:\Users\Muhammad Maarij\Downloads\Metu Downloads\EEE 248 Logic Design\Lab\MM_lab6\modelsim
+Z5 w1654381149
+Z6 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU.v
+Z7 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1654386530.345000
+Z13 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_tb
+Z14 !s100 hS3BeH=7@:cnP4n3BUUg<1
+Z15 IzjC7EIKI`Bc2=KHE<2S9<0
+Z16 VE`_QLbcAmOeKZDFMXUl3B3
+R4
+Z17 w1654380885
+Z18 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU_tb.v
+Z19 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU_tb.v
+L0 3
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU_tb.v|
+R10
+Z21 n@a@l@u_tb
+Z22 !s108 1654386530.487000
+Z23 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/ALU/ALU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder
+Z24 !s100 XGfYF88_A9@8CP<>8`fz_3
+Z25 IV5^cVC:L@:RV:AC_R9M:h0
+Z26 VLl@96d?Y:Lg`VRHFF<Go]2
+R4
+Z27 w1642366160
+Z28 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder.v
+Z29 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder.v|
+R10
+Z31 !s108 1654386530.600000
+Z32 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_tb
+Z33 !s100 <Vmoc>^NlXAPcT8SRb;h^0
+Z34 IS6:`VXbKe?HbRB2D?a:Tb0
+Z35 V=ka5g8LfkPkNOiWKG@ETE2
+R4
+Z36 w1654352727
+Z37 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder_tb.v
+Z38 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder_tb.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder_tb.v|
+R10
+Z40 !s108 1654386530.720000
+Z41 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/decoder/decoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDflip
+Z42 !s100 I<]eUH2IEJbTGc`L8RMGn3
+Z43 IW_E>=k:l1[I@dnX;1AiTc3
+Z44 Vbm55`UZeaAnJ:;5J8?LSH0
+R4
+Z45 w1642366778
+Z46 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip.v
+Z47 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip.v
+L0 1
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip.v|
+R10
+Z49 n@dflip
+Z50 !s108 1654386530.818000
+Z51 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDflip_tb
+Z52 !s100 afg0Hkj9iBLQWIfcC_hkh2
+Z53 II?X]MjMjg4W`;>NkiIFRN1
+Z54 Vedj7VDQGVWiYbdETRRV5e0
+R4
+Z55 w1654353392
+Z56 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip_tb.v
+Z57 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip_tb.v
+L0 1
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip_tb.v|
+R10
+Z59 n@dflip_tb
+Z60 !s108 1654386530.916000
+Z61 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/flipflop/Dflip_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_DATAPATH
+Z62 !s100 UoAk3CI`5nS1:9iJ8U^JH3
+Z63 IS05BT?RP9Q41>787CWl9j2
+Z64 V3MV[kZ=iTGO?90nLDn^N`2
+R4
+Z65 w1654386185
+Z66 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH.v
+Z67 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH.v
+L0 1
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH.v|
+R10
+Z69 n@f@i@b@o_@d@a@t@a@p@a@t@h
+Z70 !s108 1654386534.215000
+Z71 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_DATAPATH_tb
+Z72 IBc=Z3CzBE=LA[5bl`mg3A2
+Z73 VAe;I1_T=X6zDAJ3__klJ]0
+R4
+Z74 w1654386523
+Z75 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_tb.v
+Z76 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_tb.v
+L0 1
+R8
+r1
+31
+Z77 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_tb.v|
+R10
+Z78 n@f@i@b@o_@d@a@t@a@p@a@t@h_tb
+!i10b 1
+Z79 !s100 hjT`gaOP;moZ8M9N9kl]b3
+!s85 0
+Z80 !s108 1654386534.278000
+Z81 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/FIBO_DATAPATH_tb.v|
+!s101 -O0
+vFibo_datapath_tb1
+!i10b 1
+Z82 !s100 [IS^TZLO`8>ZR?h0RbUk90
+Z83 IaNm@JZUYS07T;1ST65mJf2
+Z84 VmNZoaci1Vjh4cAj>?8LDI2
+R4
+Z85 w1643216180
+Z86 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v
+Z87 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1654386534.394000
+!s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v|
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/Datapath/Fibo_datapath_tb1.v|
+!s101 -O0
+R10
+Z89 n@fibo_datapath_tb1
+vmux
+Z90 !s100 OBHAa=C0904LRHP:`8N7:2
+Z91 IfcCg;NF=:Xb=c@f`5?6bL1
+Z92 V>b:emP=PQDn6YKm`kB]jO2
+R4
+Z93 w1642364751
+Z94 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux.v
+Z95 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux.v|
+R10
+Z97 !s108 1654386531.006000
+Z98 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4to1
+Z99 !s100 KdT?D^kjT_7eeBDRH<^AO0
+Z100 IW:_k<RX@Ncc`hoBS:aI1Q1
+Z101 VHOS2?9T<DV8nW=JdQacB32
+R4
+Z102 w1642365507
+Z103 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1.v
+Z104 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1.v
+L0 1
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1.v|
+R10
+Z106 !s108 1654386530.162000
+Z107 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4to1_tb
+Z108 !s100 H^Q2H@jdM9S@8<GHlZeJ<0
+Z109 In4IbiB2ON]V]=MkZ0N^;f2
+Z110 VRPhGkBbHz^iT>Dz_TEP`g3
+R4
+Z111 w1654352218
+Z112 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1_tb.v
+Z113 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1_tb.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1_tb.v|
+R10
+Z115 !s108 1654386530.235000
+Z116 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/4to1/mux4to1_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_tb
+Z117 !s100 29]=i3@4WAGbm5NOnIn2W0
+Z118 Iaj3EJcZN6Szi@5lJ]=a_e3
+Z119 VE;9b5B59UhQCzhij^]Zbg3
+R4
+Z120 w1654353191
+Z121 8C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux_tb.v
+Z122 FC:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux_tb.v
+L0 1
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux_tb.v|
+R10
+Z124 !s108 1654386531.120000
+Z125 !s107 C:/Users/Muhammad Maarij/Downloads/Metu Downloads/EEE 248 Logic Design/Lab/MM_lab6/modelsim/mux/mux_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
