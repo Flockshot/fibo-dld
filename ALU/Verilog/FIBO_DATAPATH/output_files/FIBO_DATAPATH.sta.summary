@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -1.057
+TNS   : -3.520
+
+Type  : Slow 1200mV 85C Model Setup 'alu_opcode[1]'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'alu_opcode[1]'
+Slack : -0.553
+TNS   : -1.080
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 1.223
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'alu_opcode[1]'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'alu_opcode[1]'
+Slack : -0.603
+TNS   : -1.044
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'alu_opcode[1]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -0.910
+TNS   : -3.010
+
+Type  : Slow 1200mV 0C Model Setup 'alu_opcode[1]'
+Slack : 0.211
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'alu_opcode[1]'
+Slack : -0.492
+TNS   : -0.961
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 1.158
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'alu_opcode[1]'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'alu_opcode[1]'
+Slack : -0.521
+TNS   : -0.878
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'alu_opcode[1]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.643
+TNS   : -2.169
+
+Type  : Fast 1200mV 0C Model Setup 'alu_opcode[1]'
+Slack : 0.613
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'alu_opcode[1]'
+Slack : -0.330
+TNS   : -0.646
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'alu_opcode[1]'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'alu_opcode[1]'
+Slack : -0.400
+TNS   : -0.711
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -7.244
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'alu_opcode[1]'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------

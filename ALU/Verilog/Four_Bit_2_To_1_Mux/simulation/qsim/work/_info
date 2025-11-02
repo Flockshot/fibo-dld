@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Logic Labs\Lab 6\Verilog\Four_Bit_2_To_1_Mux\simulation\qsim
+vFour_Bit_2_To_1_Mux
+Z1 !s100 ZLOdcB0C4hdM`2<X=J;UX1
+Z2 IM^eKF]<Yk:>AAbQ3Pj3JI0
+Z3 VK^g:o`0OG1i^cOj3YKI@R3
+Z4 dE:\Logic Labs\Lab 6\Verilog\Four_Bit_2_To_1_Mux\simulation\qsim
+Z5 w1654381554
+Z6 8Four_Bit_2_To_1_Mux.vo
+Z7 FFour_Bit_2_To_1_Mux.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Four_Bit_2_To_1_Mux.vo|
+Z10 o-work work -O0
+Z11 n@four_@bit_2_@to_1_@mux
+!i10b 1
+!s85 0
+Z12 !s108 1654381553.475000
+Z13 !s107 Four_Bit_2_To_1_Mux.vo|
+!s101 -O0
+vFour_Bit_2_To_1_Mux_vlg_check_tst
+!i10b 1
+Z14 !s100 dZZBJ9Pd68UOc0W?b_lAH0
+Z15 ILEZXB=][ae]aZb6:QS:R11
+Z16 V^K_BFLDfVTIKfmD248_hi3
+R4
+Z17 w1654381552
+Z18 8Four_Bit_2_To_1_Mux.vt
+Z19 FFour_Bit_2_To_1_Mux.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1654381553.649000
+Z21 !s107 Four_Bit_2_To_1_Mux.vt|
+Z22 !s90 -work|work|Four_Bit_2_To_1_Mux.vt|
+!s101 -O0
+R10
+Z23 n@four_@bit_2_@to_1_@mux_vlg_check_tst
+vFour_Bit_2_To_1_Mux_vlg_sample_tst
+!i10b 1
+Z24 !s100 52H_SPQ23]9W:2j<>KmBc0
+Z25 IC7YN:?Z1m4bLP1Acm>Tk@1
+Z26 VfGH^Ui4_jMkY2meRU@=o?0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@four_@bit_2_@to_1_@mux_vlg_sample_tst
+vFour_Bit_2_To_1_Mux_vlg_vec_tst
+!i10b 1
+Z28 !s100 4ojDh70hmeIUK:CCGH3lK1
+Z29 IUI?T556lgN33hn<P`7eRd3
+Z30 V516[P350H`Q^jPF`7B]Ld1
+R4
+R17
+R18
+R19
+Z31 L0 209
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@four_@bit_2_@to_1_@mux_vlg_vec_tst

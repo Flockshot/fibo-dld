@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Logic Labs\Lab 6\simulation\qsim
+vDecoder_2_To_4
+Z1 IY@NC_T2:;RgW6=GHW^>fE0
+Z2 V]KS9_jCHkkVgf=]aAHKIh3
+Z3 dE:\Logic Labs\Lab 6\simulation\qsim
+Z4 w1654378384
+Z5 8Decoder_2_To_4.vo
+Z6 FDecoder_2_To_4.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@decoder_2_@to_4
+!i10b 1
+Z10 !s100 P>Yne63cb4=94fV?z3>jO3
+!s85 0
+Z11 !s108 1654378385.661000
+Z12 !s107 Decoder_2_To_4.vo|
+Z13 !s90 -work|work|Decoder_2_To_4.vo|
+!s101 -O0
+vDecoder_2_To_4_vlg_check_tst
+!i10b 1
+!s100 RlF>g3f_N9THP`IR^EX@Y1
+I`O:3fRDgPIB0?f`fFR;eA2
+Vn`<@]3^10O356F1T[^mfR2
+R3
+R4
+Z14 8Decoder_2_To_4.vt
+Z15 FDecoder_2_To_4.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z16 !s108 1654378386.240000
+Z17 !s107 Decoder_2_To_4.vt|
+Z18 !s90 -work|work|Decoder_2_To_4.vt|
+!s101 -O0
+R8
+n@decoder_2_@to_4_vlg_check_tst
+vDecoder_2_To_4_vlg_sample_tst
+!i10b 1
+!s100 9L<<G;I^BAkZD4dHfmDm51
+IWM`K9a<7dS@LM4IYQDcmK3
+VhS?=JlHQU[McgYKb7YR^n1
+R3
+R4
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+n@decoder_2_@to_4_vlg_sample_tst
+vDecoder_2_To_4_vlg_vec_tst
+!i10b 1
+!s100 DhVHlW@AGc5_:al@Ia5gZ3
+IFG2KW:4fGEc7O`g_cQ0V<1
+VO]?cX5QWoGD[^1dX@B?GS1
+R3
+R4
+R14
+R15
+L0 205
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+n@decoder_2_@to_4_vlg_vec_tst

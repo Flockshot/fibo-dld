@@ -1,0 +1,48 @@
+module FSM_TB();
+  
+  parameter size = 4;
+
+  reg START, ZERO_FLAG, CLK, RST;
+  wire [size-2:0] opcode;
+  wire [size-3:0] operand1, operand2;  
+  wire DONE;
+
+  FSM DUT(START, ZERO_FLAG, CLK, RST, DONE, opcode, operand1, operand2);
+  
+  always begin
+      CLK = 0; #50;
+      CLK = 1; #50;
+  end
+  
+  initial begin
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 1; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 1; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 1; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 1; #100;
+    
+    START = 1; ZERO_FLAG = 0; RST = 0; #100;
+    START = 0; ZERO_FLAG = 0; RST = 0; #100;   
+  end
+  
+  
+  
+endmodule
+  
+  

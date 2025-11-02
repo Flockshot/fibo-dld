@@ -1,0 +1,92 @@
+{E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_N.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_N.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIBO_DATAPATH_N
+
+Top level modules:
+	FIBO_DATAPATH_N
+
+} {} {}} {E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_TB.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIBO_DATAPATH_tb
+
+Top level modules:
+	FIBO_DATAPATH_tb
+
+} {} {}} {E:/Logic Labs/Lab 6/Modelsim/Four_Bit_2_To_1_Mux_TB.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/Four_Bit_2_To_1_Mux_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Four_Bit_2_To_1_TB
+
+Top level modules:
+	Four_Bit_2_To_1_TB
+
+} {} {}} {E:/Logic Labs/Lab 6/Modelsim/Four_Bit_4_To_1_TB.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/Four_Bit_4_To_1_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Four_Bit_4_To_1_TB
+
+Top level modules:
+	Four_Bit_4_To_1_TB
+
+} {} {}} {E:/Logic Labs/Lab 6/Verilog/FIBO_DATAPATH/FIBO_DATAPATH.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Verilog/FIBO_DATAPATH/FIBO_DATAPATH.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIBO_DATAPATH
+
+Top level modules:
+	FIBO_DATAPATH
+
+} {} {}} {E:/Logic Labs/Lab 6/Verilog/Four_Bit_2_To_1_Mux/Four_Bit_2_To_1_Mux.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Verilog/Four_Bit_2_To_1_Mux/Four_Bit_2_To_1_Mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Four_Bit_2_To_1_Mux
+
+Top level modules:
+	Four_Bit_2_To_1_Mux
+
+} {} {}} {E:/Logic Labs/Lab 6/Modelsim/Decoder_2_To_4_TB.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/Decoder_2_To_4_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_2_To_4_TB
+
+Top level modules:
+	Decoder_2_To_4_TB
+
+} {} {}} {E:/Logic Labs/Lab 6/Verilog/D_Flip_Flop/D_Flip_Flop.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Verilog/D_Flip_Flop/D_Flip_Flop.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_Flip_Flop
+
+Top level modules:
+	D_Flip_Flop
+
+} {} {}} {E:/Logic Labs/Lab 6/Modelsim/D_Flip_Flop_TB.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/D_Flip_Flop_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_Flip_Flop_TB
+
+Top level modules:
+	D_Flip_Flop_TB
+
+} {} {}} {E:/Logic Labs/Lab 6/Verilog/Four_Bit_4_To_1_Mux/Four_Bit_4_To_1_Mux.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Verilog/Four_Bit_4_To_1_Mux/Four_Bit_4_To_1_Mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Four_Bit_4_To_1_Mux
+
+Top level modules:
+	Four_Bit_4_To_1_Mux
+
+} {} {}} {E:/Logic Labs/Lab 6/Verilog/Decoder/Decoder_2_To_4.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Verilog/Decoder/Decoder_2_To_4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_2_To_4
+
+Top level modules:
+	Decoder_2_To_4
+
+} {} {}} {E:/Logic Labs/Lab 6/Modelsim/ALU_TB.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Modelsim/ALU_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_TB
+
+Top level modules:
+	ALU_TB
+
+} {} {}} {E:/Logic Labs/Lab 6/Verilog/ALU/ALU.v} {1 {vlog -work work {E:/Logic Labs/Lab 6/Verilog/ALU/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

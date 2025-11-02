@@ -1,0 +1,19 @@
+module Four_Bit_2_To_1_Mux(A, B, S, Y);
+
+parameter size = 4;
+
+input [size-1:0] A, B;
+input S;
+
+output [size-1:0] Y;
+
+genvar i;
+generate
+
+for(i=0; i<size; i=i+1) begin: Four_Bit_2_To_1_Mux
+	assign Y[i] = A[i] & ~S | B[i] & S;
+end
+endgenerate
+
+endmodule
+

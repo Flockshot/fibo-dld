@@ -1,0 +1,37 @@
+module ALU(Input1, Input2, opcode, zero_flag, out);
+
+parameter size = 4;
+
+input [size-1:0] Input1, Input2;
+input [size-2:0] opcode;
+
+output reg zero_flag;
+output reg [size-1:0] out;
+
+always @(Input1, Input2, opcode) begin
+  
+	if(opcode == 3'b001) begin
+		out = 1;
+		end
+	else if(opcode == 3'b010) begin
+		out = Input1 + 1;
+		end
+	else if(opcode == 3'b011) begin
+		out = Input1 - 1;
+		end
+	else if(opcode == 3'b100) begin
+		out = Input1;
+		end
+	else if(opcode == 3'b101) begin
+		out = Input1;
+		end
+	else if(opcode == 3'b110) begin
+		out = Input1 + Input2;
+		end
+	else if(opcode == 3'b111) begin
+		out = Input2;
+		end
+
+	zero_flag = (~out[0] & ~out[1] & ~out[2] & ~out[3]);
+end
+endmodule

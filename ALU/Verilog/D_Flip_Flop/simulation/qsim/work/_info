@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Logic Labs\Lab 6\Verilog\D_Flip_Flop\simulation\qsim
+vD_Flip_Flop
+Z1 IBd5]ak3iz4>3dK=fQG8o<2
+Z2 VPko>lC@0a81XljHP=cEK;3
+Z3 dE:\Logic Labs\Lab 6\Verilog\D_Flip_Flop\simulation\qsim
+Z4 w1654382416
+Z5 8D_Flip_Flop.vo
+Z6 FD_Flip_Flop.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@d_@flip_@flop
+!i10b 1
+Z10 !s100 R_TT79:7;>3c2<8Zh9=iS0
+!s85 0
+Z11 !s108 1654382415.884000
+Z12 !s107 D_Flip_Flop.vo|
+Z13 !s90 -work|work|D_Flip_Flop.vo|
+!s101 -O0
+vD_Flip_Flop_vlg_check_tst
+!i10b 1
+!s100 lKk2gIILN1PNCCKMlgHWf3
+IZ>KZCa26n:lnfXbEl<9G30
+VRP@2CC1iYGKmZ?iZP:Mlo0
+R3
+Z14 w1654382414
+Z15 8D_Flip_Flop.vt
+Z16 FD_Flip_Flop.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z17 !s108 1654382416.398000
+Z18 !s107 D_Flip_Flop.vt|
+Z19 !s90 -work|work|D_Flip_Flop.vt|
+!s101 -O0
+R8
+n@d_@flip_@flop_vlg_check_tst
+vD_Flip_Flop_vlg_sample_tst
+!i10b 1
+!s100 l37XZ4:g58aGahG@D0YH40
+I=K`GF>=oKNc;=6j[lL?zP3
+V^V]3Y^k^B[@bLln8XgO5a1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@d_@flip_@flop_vlg_sample_tst
+vD_Flip_Flop_vlg_vec_tst
+!i10b 1
+!s100 ^`^GD]917]EZ:f;cIlLe?3
+II0f?JG2W@l3zZVRzzI`;P1
+VVjZo^BY>lfRPmOa=HeBS21
+R3
+R14
+R15
+R16
+L0 207
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@d_@flip_@flop_vlg_vec_tst

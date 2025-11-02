@@ -1,0 +1,285 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 ]DaX7BMS1`2A_@VeM@QC32
+Z2 I2SBgM0SmX<lGeWJ?6n?Fi1
+Z3 V0AW`Ja_`6nB8CI3KA<GcK2
+Z4 dE:\Logic Labs\Lab 6\Modelsim
+Z5 w1654396486
+Z6 8E:/Logic Labs/Lab 6/Verilog/ALU/ALU.v
+Z7 FE:/Logic Labs/Lab 6/Verilog/ALU/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Verilog/ALU/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1654612719.734000
+Z13 !s107 E:/Logic Labs/Lab 6/Verilog/ALU/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_TB
+Z14 !s100 OagXG;HX:1^ECI^[AV7RU3
+Z15 ICzT_?:gA_[=?57GR]?:i73
+Z16 VDmYb^h=ISbiDb5`iDDnSg3
+R4
+Z17 w1654396418
+Z18 8E:/Logic Labs/Lab 6/Modelsim/ALU_TB.v
+Z19 FE:/Logic Labs/Lab 6/Modelsim/ALU_TB.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/ALU_TB.v|
+R10
+Z21 n@a@l@u_@t@b
+Z22 !s108 1654612719.900000
+Z23 !s107 E:/Logic Labs/Lab 6/Modelsim/ALU_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vD_Flip_Flop
+Z24 !s100 DPS5^D@W>mH@Y05IzOCdz3
+Z25 I46nkL_cXLSS4jf3=18UhZ1
+Z26 V[GC27FV[c]^^8F<jf02lQ2
+R4
+Z27 w1654382248
+Z28 8E:/Logic Labs/Lab 6/Verilog/D_Flip_Flop/D_Flip_Flop.v
+Z29 FE:/Logic Labs/Lab 6/Verilog/D_Flip_Flop/D_Flip_Flop.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Verilog/D_Flip_Flop/D_Flip_Flop.v|
+R10
+Z31 n@d_@flip_@flop
+Z32 !s108 1654612719.394000
+Z33 !s107 E:/Logic Labs/Lab 6/Verilog/D_Flip_Flop/D_Flip_Flop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vD_Flip_Flop_TB
+Z34 !s100 MC6c3NJjaO<^QZB5Y4h[S1
+Z35 I]Oe[Pj3UM>CkA`_ZBimi_1
+Z36 V6NVGM<JlS>>2PiaUaaYNh1
+R4
+Z37 w1654390766
+Z38 8E:/Logic Labs/Lab 6/Modelsim/D_Flip_Flop_TB.v
+Z39 FE:/Logic Labs/Lab 6/Modelsim/D_Flip_Flop_TB.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/D_Flip_Flop_TB.v|
+R10
+Z41 n@d_@flip_@flop_@t@b
+Z42 !s108 1654612719.532000
+Z43 !s107 E:/Logic Labs/Lab 6/Modelsim/D_Flip_Flop_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder_2_To_4
+Z44 !s100 eO<QY6EGTBlHMZVn8g:L_1
+Z45 I2F1DHkTegB4h4@2Jd^Gcd1
+Z46 VZ4<[lm8P3VUjg]b6ZiS[80
+R4
+Z47 w1654378270
+Z48 8E:/Logic Labs/Lab 6/Verilog/Decoder/Decoder_2_To_4.v
+Z49 FE:/Logic Labs/Lab 6/Verilog/Decoder/Decoder_2_To_4.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Verilog/Decoder/Decoder_2_To_4.v|
+R10
+Z51 n@decoder_2_@to_4
+Z52 !s108 1654612718.537000
+Z53 !s107 E:/Logic Labs/Lab 6/Verilog/Decoder/Decoder_2_To_4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder_2_To_4_TB
+Z54 !s100 3nbMW[8eFVSNWXYm@mVKX1
+Z55 I_;EAg:dclK3GD4F>jAa@Z1
+Z56 VXKhY5Me]Hco`[N<Uj[OCh3
+R4
+Z57 w1654388534
+Z58 8E:/Logic Labs/Lab 6/Modelsim/Decoder_2_To_4_TB.v
+Z59 FE:/Logic Labs/Lab 6/Modelsim/Decoder_2_To_4_TB.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/Decoder_2_To_4_TB.v|
+R10
+Z61 n@decoder_2_@to_4_@t@b
+Z62 !s108 1654612718.672000
+Z63 !s107 E:/Logic Labs/Lab 6/Modelsim/Decoder_2_To_4_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_DATAPATH
+Z64 !s100 eNA<lzPmCRaBBj0D5lI[A3
+Z65 IN<XgLJkFk^AD45hUam2=E1
+Z66 V_U=^DO:TGJJVFnK@hZ4i_3
+R4
+Z67 w1654612608
+Z68 8E:/Logic Labs/Lab 6/Verilog/FIBO_DATAPATH/FIBO_DATAPATH.v
+Z69 FE:/Logic Labs/Lab 6/Verilog/FIBO_DATAPATH/FIBO_DATAPATH.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Verilog/FIBO_DATAPATH/FIBO_DATAPATH.v|
+R10
+Z71 n@f@i@b@o_@d@a@t@a@p@a@t@h
+Z72 !s108 1654612720.110000
+Z73 !s107 E:/Logic Labs/Lab 6/Verilog/FIBO_DATAPATH/FIBO_DATAPATH.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_DATAPATH_N
+!i10b 1
+Z74 !s100 o2mnj4[i]K?@?GYf`Bm0I3
+Z75 IU?8Il:`O4cTX43g`3RaUl3
+Z76 V=E=Tl[FZ^Nz3CCBEHe9K31
+R4
+Z77 w1654612514
+Z78 8E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_N.v
+Z79 FE:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_N.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1654612720.993000
+!s107 E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_N.v|
+Z80 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_N.v|
+!s101 -O0
+R10
+Z81 n@f@i@b@o_@d@a@t@a@p@a@t@h_@n
+vFIBO_DATAPATH_tb
+Z82 !s100 8>2@Uc4D8>^Wc:eHH_g;60
+Z83 I4nzK6Dbk<MfkH2Fa08F7N0
+Z84 VAe;I1_T=X6zDAJ3__klJ]0
+R4
+Z85 w1654447442
+Z86 8E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_TB.v
+Z87 FE:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_TB.v
+L0 1
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_TB.v|
+R10
+Z89 n@f@i@b@o_@d@a@t@a@p@a@t@h_tb
+Z90 !s108 1654612720.420000
+Z91 !s107 E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_DATAPATH_tb_new
+Z92 IZlmho>d[g[f`?LHGFjnd>3
+Z93 V2WLQ:gJcULCGC@cBkV_:N3
+R4
+Z94 w1654612714
+Z95 8E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_tb_new.v
+Z96 FE:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_tb_new.v
+L0 1
+R8
+r1
+31
+Z97 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_tb_new.v|
+R10
+Z98 n@f@i@b@o_@d@a@t@a@p@a@t@h_tb_new
+!i10b 1
+Z99 !s100 YiT2ceI0maeHh`>3zndkb3
+!s85 0
+Z100 !s108 1654612720.731000
+Z101 !s107 E:/Logic Labs/Lab 6/Modelsim/FIBO_DATAPATH_tb_new.v|
+!s101 -O0
+vFour_Bit_2_To_1_Mux
+Z102 !s100 8a18E3gc3Rm8>dFV7:=eO0
+Z103 Ioh_BY9fY<PlabVcBaMSHB3
+Z104 V8WnnQIVaEG<IXTSLHUoSf1
+R4
+Z105 w1654381510
+Z106 8E:/Logic Labs/Lab 6/Verilog/Four_Bit_2_To_1_Mux/Four_Bit_2_To_1_Mux.v
+Z107 FE:/Logic Labs/Lab 6/Verilog/Four_Bit_2_To_1_Mux/Four_Bit_2_To_1_Mux.v
+L0 1
+R8
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Verilog/Four_Bit_2_To_1_Mux/Four_Bit_2_To_1_Mux.v|
+R10
+Z109 n@four_@bit_2_@to_1_@mux
+Z110 !s108 1654612718.102000
+Z111 !s107 E:/Logic Labs/Lab 6/Verilog/Four_Bit_2_To_1_Mux/Four_Bit_2_To_1_Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFour_Bit_2_To_1_TB
+Z112 !s100 M3U4Y@53G=;f>C6o<MjN90
+Z113 ILihL^@WXWK2Kc2I^[N2142
+Z114 VJ1l46eZElLmS:IFa^S?IG0
+R4
+Z115 w1654388776
+Z116 8E:/Logic Labs/Lab 6/Modelsim/Four_Bit_2_To_1_Mux_TB.v
+Z117 FE:/Logic Labs/Lab 6/Modelsim/Four_Bit_2_To_1_Mux_TB.v
+L0 1
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/Four_Bit_2_To_1_Mux_TB.v|
+R10
+Z119 n@four_@bit_2_@to_1_@t@b
+Z120 !s108 1654612718.276000
+Z121 !s107 E:/Logic Labs/Lab 6/Modelsim/Four_Bit_2_To_1_Mux_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFour_Bit_4_To_1_Mux
+Z122 !s100 P2UIHhoT2ZU=VV>`nW?1Z3
+Z123 IIQRkA2^G1[YfS;Zzhg39`0
+Z124 VF3L>i>4JYM2d_YL1Y?B4Q0
+R4
+Z125 w1654381602
+Z126 8E:/Logic Labs/Lab 6/Verilog/Four_Bit_4_To_1_Mux/Four_Bit_4_To_1_Mux.v
+Z127 FE:/Logic Labs/Lab 6/Verilog/Four_Bit_4_To_1_Mux/Four_Bit_4_To_1_Mux.v
+L0 1
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Verilog/Four_Bit_4_To_1_Mux/Four_Bit_4_To_1_Mux.v|
+R10
+Z129 n@four_@bit_4_@to_1_@mux
+Z130 !s108 1654612718.908000
+Z131 !s107 E:/Logic Labs/Lab 6/Verilog/Four_Bit_4_To_1_Mux/Four_Bit_4_To_1_Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFour_Bit_4_To_1_TB
+Z132 !s100 6`b2ozPb?olf=>e`F^3ZO3
+Z133 I78zS<c76YRH6mSOIeW:g:0
+Z134 Vn242zDUIe8mdF;RC3ZZ==3
+R4
+Z135 w1654389032
+Z136 8E:/Logic Labs/Lab 6/Modelsim/Four_Bit_4_To_1_TB.v
+Z137 FE:/Logic Labs/Lab 6/Modelsim/Four_Bit_4_To_1_TB.v
+L0 1
+R8
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|E:/Logic Labs/Lab 6/Modelsim/Four_Bit_4_To_1_TB.v|
+R10
+Z139 n@four_@bit_4_@to_1_@t@b
+Z140 !s108 1654612719.131000
+Z141 !s107 E:/Logic Labs/Lab 6/Modelsim/Four_Bit_4_To_1_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0

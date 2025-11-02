@@ -1,0 +1,26 @@
+module D_Flip_Flop_TB();
+        
+  parameter size = 4;
+  
+  reg [size-1:0] D;
+  reg Clk;
+  wire [size-1:0] Q;
+  
+  D_Flip_Flop DUT(D, Clk, Q);
+  
+  always begin
+      Clk = 0; #50;
+      Clk = 1; #50;
+  end
+  initial begin
+    D = 4'b0000; #100;
+    D = 4'b0001; #100;
+    D = 4'b0010; #100;
+    D = 4'b0011; #100;
+    D = 4'b1100; #100;
+    D = 4'b1101; #100;
+    D = 4'b1110; #100;
+    D = 4'b1111; #100;
+  end
+  
+endmodule

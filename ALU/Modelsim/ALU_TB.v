@@ -1,0 +1,24 @@
+module ALU_TB();
+        
+  parameter size = 4;
+  
+  reg [size-1:0] Input1, Input2;
+  reg [size-2:0] opcode;
+  wire zero_flag;
+  wire [size-1:0] out;
+  
+  ALU DUT(Input1, Input2, opcode, zero_flag, out);
+  
+  initial begin
+    Input1 = 4'b1111; Input2 = 4'b1110; opcode = 3'b000; #100;    
+    Input1 = 4'b1111; Input2 = 4'b1000; opcode = 3'b001; #100;
+    Input1 = 4'b1001; Input2 = 4'b1100; opcode = 3'b010; #100;
+    Input1 = 4'b0001; Input2 = 4'b0011; opcode = 3'b011; #100;    
+    Input1 = 4'b0110; Input2 = 4'b0010; opcode = 3'b100; #100;
+    Input1 = 4'b0100; Input2 = 4'b0110; opcode = 3'b101; #100;    
+    Input1 = 4'b1000; Input2 = 4'b0100; opcode = 3'b110; #100;   
+    Input1 = 4'b0111; Input2 = 4'b1000; opcode = 3'b111; #100;
+
+  end
+  
+endmodule

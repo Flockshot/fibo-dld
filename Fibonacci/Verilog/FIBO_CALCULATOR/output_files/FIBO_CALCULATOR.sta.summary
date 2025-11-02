@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -2.467
+TNS   : -8.620
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -1.493
+TNS   : -9.996
+
+Type  : Slow 1200mV 85C Model Hold 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.947
+TNS   : -7.056
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -0.911
+TNS   : -3.273
+
+Type  : Slow 1200mV 85C Model Recovery 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.209
+TNS   : -4.806
+
+Type  : Slow 1200mV 85C Model Removal 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -2.375
+TNS   : -9.355
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : 0.411
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -2.205
+TNS   : -7.693
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -1.283
+TNS   : -8.087
+
+Type  : Slow 1200mV 0C Model Hold 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.701
+TNS   : -6.166
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -0.853
+TNS   : -3.029
+
+Type  : Slow 1200mV 0C Model Recovery 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.070
+TNS   : -4.243
+
+Type  : Slow 1200mV 0C Model Removal 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -2.104
+TNS   : -8.288
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.141
+TNS   : -3.906
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -0.394
+TNS   : -2.674
+
+Type  : Fast 1200mV 0C Model Hold 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.179
+TNS   : -4.331
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.530
+TNS   : -1.981
+
+Type  : Fast 1200mV 0C Model Recovery 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -0.448
+TNS   : -1.770
+
+Type  : Fast 1200mV 0C Model Removal 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : -1.393
+TNS   : -5.485
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.442
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FIBO_FSM:F1|FSM:F1|state.S0'
+Slack : 0.445
+TNS   : 0.000
+
+------------------------------------------------------------

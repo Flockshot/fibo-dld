@@ -1,0 +1,23 @@
+|Four_Bit_2_To_1_Mux
+A[0] => Y.IN0
+A[1] => Y.IN0
+A[2] => Y.IN0
+A[3] => Y.IN0
+B[0] => Y.IN0
+B[1] => Y.IN0
+B[2] => Y.IN0
+B[3] => Y.IN0
+S => Y.IN1
+S => Y.IN1
+S => Y.IN1
+S => Y.IN1
+S => Y.IN1
+S => Y.IN1
+S => Y.IN1
+S => Y.IN1
+Y[0] <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Y[1] <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Y[2] <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Y[3] <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
