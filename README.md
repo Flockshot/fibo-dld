@@ -56,7 +56,7 @@ The design follows the **FSM + Datapath** model:
 
 #### Finite State Machine (FSM)
 The controller traverses the following states:
-* `IDLE`: Waits for the `START` signal.
+* **IDLE**: Waits for the `START` signal.
 * **LOAD**: Initializes registers ($F_0=0, F_1=1$).
 * **CALC**: Iteratively computes $F_{new} = F_{old} + F_{older}$ until the counter reaches zero.
 * **DONE**: Asserts the completion signal.
@@ -79,9 +79,6 @@ The design target was the **Altera DE0 FPGA board**. Physical constraints were m
 
 ### Simulation Steps
 1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/your-username/Digital-Logic-Design-CNG232.git](https://github.com/your-username/Digital-Logic-Design-CNG232.git)
-    ```
 2.  Open **ModelSim** and create a new project.
 3.  Add the source files from `ALU/Verilog/` or `Fibonacci/Verilog/`.
 4.  Compile all files.
